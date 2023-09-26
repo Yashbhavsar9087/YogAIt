@@ -11,7 +11,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/jay-munjapara/yogAit">
+<!--   <a href="https://github.com/jay-munjapara/yogAit"> -->
     <img src="https://developers.google.com/ml-kit/images/vision/card-pose_detection.png" alt="Logo">
   </a>
 </p>
